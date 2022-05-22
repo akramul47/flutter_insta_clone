@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127942211174",
+    "project_id": "flutter-instagram-chrome",
+    "storage_bucket": "flutter-instagram-chrome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127942211174:android:da7b6fe9e2133bf6ee9fa7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127942211174-rp06gkt5ovr4qjitp51vptcnhj6vh0uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqoPU0i6A029Ykg8In6bsNICo5-BxFqAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127942211174-rp06gkt5ovr4qjitp51vptcnhj6vh0uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">127942211174-rp06gkt5ovr4qjitp51vptcnhj6vh0uj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">127942211174</string>
+    <string name="google_api_key" translatable="false">AIzaSyBqoPU0i6A029Ykg8In6bsNICo5-BxFqAQ</string>
+    <string name="google_app_id" translatable="false">1:127942211174:android:da7b6fe9e2133bf6ee9fa7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBqoPU0i6A029Ykg8In6bsNICo5-BxFqAQ</string>
+    <string name="google_storage_bucket" translatable="false">flutter-instagram-chrome.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-instagram-chrome</string>
+</resources>
